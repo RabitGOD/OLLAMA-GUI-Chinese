@@ -4,7 +4,7 @@
 
 增TOKENS输出速率监测，以及GPU显存使用情况以及显示其CUDA版本。
 
-简单翻译了中文。
+UI翻译了中文。
 
 ![1](https://github.com/user-attachments/assets/6c3aba28-6246-4aa6-afdb-e8af3d3dfc96)
 
