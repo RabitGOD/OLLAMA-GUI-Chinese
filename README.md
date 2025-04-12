@@ -10,6 +10,6 @@ UI翻译了中文。
 
 ![1](https://github.com/user-attachments/assets/6c3aba28-6246-4aa6-afdb-e8af3d3dfc96)
 
-![展示](https://github.com/user-attachments/assets/c8e4121d-b747-425b-94bf-2361770ec5b5)
+![LOGO](https://github.com/user-attachments/assets/5b9e6dea-29c9-4658-81c6-e222fae373a6)
 
 ![1](https://github.com/user-attachments/assets/18c11bef-f697-4ccd-9305-2c07c34fa369)
